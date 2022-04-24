@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugi1410&layout=compact&theme=jolly&count_private=true" alt="hugi1410" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/graph?username=hugi1410&" alt="hugi1410" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/graph?username=hugi1410" alt="hugi1410" /></p>
